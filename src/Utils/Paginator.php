@@ -206,7 +206,7 @@ class Paginator
 
 	/**
 	 * Returns the number of items on current page.
-	 * @return int|null
+	 * @return int
 	 */
 	public function getLength()
 	{
